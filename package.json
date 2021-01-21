@@ -1,0 +1,13 @@
+{
+  "name": "stepcounter",
+  "version": "0.0.0",
+  "description": "Eine einfache App aus dem zweiten Kapitel im React Native Buch von O'Reilly",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.1.tar.gz"
+  }
+}
